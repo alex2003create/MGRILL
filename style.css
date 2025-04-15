@@ -1,0 +1,14 @@
+.zoom-image {
+    transition: transform 0.5s ease;
+}
+
+.zoom-image:hover {
+    transform: scale(1.1);
+}
+.text-zoom {
+    transition: transform 0.5s ease;
+}
+
+.text-zoom:hover {
+    transform: scale(1.1);
+}
